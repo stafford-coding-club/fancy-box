@@ -5,9 +5,9 @@ draw this box
       OOOOOOOOOO
       O        O
       O   	   O
-      O	       O
-      O	       O
-      O	       O
+      O	   O
+      O	   O
+      O	   O
       O        O
       O        O
       O        O
